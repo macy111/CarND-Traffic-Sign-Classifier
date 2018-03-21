@@ -107,7 +107,7 @@ My final model results were:
 * test set accuracy of 96.3%
 
 The training loss and validation loss are showed:
- ![alt text][image9]
+![alt text][image9]
 
 ### Test a Model on New Images
 
