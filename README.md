@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 [image6]: ./mydata/sl30.jpg "Traffic Sign 3"
 [image7]: ./mydata/turnRight.jpg "Traffic Sign 4"
 [image8]: ./mydata/NoPassing.jpg "Traffic Sign 5"
-[image9]: ./examples/loss.png"
+[image9]: ./examples/loss.png  "loss"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
